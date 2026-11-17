@@ -1,0 +1,25 @@
+{
+  "frames": 199319,
+  "second_half_frame": 113741,
+  "video_fps": 25,
+  "sample_fps": 5,
+  "pitch_m": [
+    105.3,
+    68.0
+  ],
+  "models": [
+    {
+      "file": "weights/c6_6s.pt",
+      "width": 32,
+      "points": 31,
+      "weight": 0.75
+    },
+    {
+      "file": "weights/c6_4s.pt",
+      "width": 48,
+      "points": 21,
+      "weight": 0.25
+    }
+  ],
+  "expected_csv_sha256": "2e1560d8bfc662538510056b3ace42d2b0429cb903f59b0726372456bab3ccb5"
+}

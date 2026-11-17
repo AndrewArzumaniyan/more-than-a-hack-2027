@@ -1,0 +1,12 @@
+{
+  "DS Team AI4Football.csv": "2e1560d8bfc662538510056b3ace42d2b0429cb903f59b0726372456bab3ccb5",
+  "README.md": "db5cee6463793eff0d4851873e5829f88dd716ec2d37c77c2a5ebb1de389981b",
+  "config.json": "5eab9f1e6f2d959093e3f595dbaedb02a8b1684fe7c2959364fead4299d9f4a3",
+  "features.py": "d8f660318453d1b1630eda6b4d311a889dfd28f7a922bba13e76358f63e1cfca",
+  "model.py": "9370286b02e2c5e8ec3ccab025fa189623c2d386d5a2f9a5d056cd614963fbb1",
+  "postprocess.py": "818bfc40e37ed868d53fdb6a83957f6398800396b53b772af5d2c21d9b5b718e",
+  "predict.py": "4cc6dfcf8b199afed79909caac16d0a3b91b47d2c34b9b939fc26954f15bef15",
+  "requirements.txt": "e7e918125da144b240097814ef1bfd2d48ff253aa12df3361e4d3589d908c783",
+  "weights/c6_4s.pt": "530fdbae0b847bca07ab1191683d82d3fdd5077b85b217161dd7c1edf65e0569",
+  "weights/c6_6s.pt": "d965bf2fa6bac75b21f932566ae8ecc16f83c11dc8c89b47aa514f9e1290ce7f"
+}
