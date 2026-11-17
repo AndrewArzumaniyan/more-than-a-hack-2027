@@ -8,6 +8,8 @@ Weights and decoding parameters are included. Inference is offline and uses futu
 
 The models use public Bundesliga tracking from [An integrated dataset of spatiotemporal and event data in elite soccer](https://doi.org/10.1038/s41597-025-04505-y) ([dataset](https://doi.org/10.6084/m9.figshare.28196177)).
 
+Training used five labelled matches from this public dataset; two other matches were reserved for validation. Target labels were taken from the dataset's DFL-provided `BallStatus` and `BallPossession` fields and mapped to H/A/D; no additional manual annotation was created. No labelled data from the competition match were used to train the model weights.
+
 ## Run
 
 Tested with Python 3.13 on CPU. From the repository root:
